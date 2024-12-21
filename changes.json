@@ -1,0 +1,97 @@
+[
+    {
+        "event_type": "created",
+        "file": "/home/ubuntu/bsm/test\\New Text Document.txt",
+        "timestamp": 1734732769.1983695
+    },
+    {
+        "event_type": "created",
+        "file": "/home/ubuntu/bsm/test\\New Text Document.txt",
+        "timestamp": 1734732840.5359488
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\New Text Document.txt",
+        "timestamp": 1734732858.1646216
+    },
+    {
+        "event_type": "created",
+        "file": "/home/ubuntu/bsm/test\\New Text Document (2).txt",
+        "timestamp": 1734786469.30015
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734786497.5499332
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734786507.5872903
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\new_file.txt.txt",
+        "timestamp": 1734786524.206847
+    },
+    {
+        "event_type": "deleted",
+        "file": "/home/ubuntu/bsm/test\\new_file.txt.txt",
+        "timestamp": 1734786529.4543607
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\test_file.txt",
+        "timestamp": 1734787809.1974676
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734788725.7872288
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734788725.7982006
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734793696.3439653
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734795694.6586728
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734795694.6692092
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\test_file.txt",
+        "timestamp": 1734795713.8380945
+    },
+    {
+        "event_type": "deleted",
+        "file": "/home/ubuntu/bsm/test\\ekleniyor.txt",
+        "timestamp": 1734795720.8485818
+    },
+    {
+        "event_type": "created",
+        "file": "/home/ubuntu/bsm/test\\New Text Document.txt",
+        "timestamp": 1734796070.3400443
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734796538.5986757
+    },
+    {
+        "event_type": "modified",
+        "file": "/home/ubuntu/bsm/test\\denemeydi.txt",
+        "timestamp": 1734796538.603595
+    }
+]
