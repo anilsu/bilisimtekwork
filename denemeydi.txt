@@ -1,0 +1,5 @@
+İçine basit bir yazı yazın (örneğin, "This is a new file").
+içeriğine bir şeyler yazılır.
+denetleniyor mu kontrol 1
+bsm sınıf 2
+ders ödev
